@@ -1,0 +1,8 @@
+{
+  "name": "PicDrop",
+  "description": "A professional, mobile-first web application designed to allow wedding guests to effortlessly upload photos to a private, custom-branded web page for the couple. Features a visually stunning gallery and intuitive upload process.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
